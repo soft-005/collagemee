@@ -1,8 +1,8 @@
 <?php
-define('DB_NAME', 'collageme');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
-define('DB_HOST', 'localhost');
+define('DB_NAME', 'sql8791742');
+define('DB_USERNAME', 'sql8791742');
+define('DB_PASSWORD', 'xXFNkdWkKL');
+define('DB_HOST', 'sql8.freesqldatabase.com');
 
 //
 

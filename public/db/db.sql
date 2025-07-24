@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 10, 2025 at 04:13 PM
+-- Generation Time: Jul 07, 2025 at 03:40 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `berg`
+-- Database: `finx`
 --
 
 -- --------------------------------------------------------
@@ -247,8 +247,8 @@ CREATE TABLE `pin` (
 --
 
 INSERT INTO `pin` (`id`, `pin`) VALUES
-(1, 265974),
-(2, 811557);
+(1, 124943),
+(2, 285483);
 
 -- --------------------------------------------------------
 
@@ -332,7 +332,7 @@ CREATE TABLE `site_main` (
 --
 
 INSERT INTO `site_main` (`id`, `team1_img`, `team1_cont`, `team2_img`, `team2_cont`, `team3_img`, `team3_cont`, `team4_img`, `team4_cont`, `team5_img`, `team5_cont`, `pack1_p`, `pack1_a`, `pack1_d`, `pack2_p`, `pack2_a`, `pack2_d`, `pack3_p`, `pack3_a`, `pack3_d`, `pack4_p`, `pack4_a`, `pack4_d`, `adm_pass`, `btc_i`, `btc_c`, `eth_i`, `eth_c`, `usdt_i`, `usdt_c`, `bch_c`, `doge_c`, `lite_c`, `usdte_c`, `bnb_i`, `bnb_c`, `ada_i`, `ada_c`, `usdc_i`, `usdc_c`, `adm_email`, `chart_setting`, `referal_amount`, `new_user`, `session_at_user`, `depoc`, `whataspp`, `btc_i2`, `btc_c2`, `usdt_i2`, `usdt_c2`, `eth_i2`, `eth_c2`) VALUES
-(1, 'Carmen_Alvarez-Alvarez.jpg', '<b>CEO</b> - sam smith', 'W_960_untitled-0391-2.jpg', '<b>CO-founder</b> - sam smith', 'unnamed.png', '<b>CHIEF ANALYSIS</b> - sam smith', '1c5fc0ec8c9ce1380e47f30e07398cc8.jpg', '<b>CHIEF ANALYSIS</b> - sam smith', 'W_960_untitled-0391-2.jpg', '<b>CHIEF ANALYSIS</b> - sam smith', 500, 50, 11, 500, 99, 12, 800, 50, 12, 800, 10000, 10, 'kayc', '625DDC3C-5918-41CB-B367-D2E25BECD03B.jpeg', 'bc1qlu32glyzyk8ezgpe3fdmm2emhrngke52ryrdgx', '', '0xF884De7982CfFE02529d9874352431f5A742353e', '625DDC3C-5918-41CB-B367-D2E25BECD03B.jpeg', 'TXAwrxRASqR5BqBCqb4nB8zMngcXCJcUzF', 'qzw8mwt38gpqq83ejq4su5ksfu7daxys3su3f6423p', 'DFfc91qq5A3UDUfnfjarFWzTz43zfJaQLx', 'LeiyyeJv36i5vM68xik6qJLy1Ny2nu27dZ', '0xF884De7982CfFE02529d9874352431f5A742353e', '', '', '', '', '', '', 'adm@bergtrader.com', 1000, 1000, 12, 29, 190, NULL, '', 'mybtc3', '', 'myusdt', NULL, NULL);
+(1, '', '', '', '', 'unnamed.png', '', '', '', '', '', 25, 5000, 11, 35, 10000, 12, 50, 100000, 12, 65, 200000, 10, 'password', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'adm@collageme.com', 1000, 1000, 49, 254, 333, NULL, '', '', '', '', NULL, NULL);
 
 -- --------------------------------------------------------
 
