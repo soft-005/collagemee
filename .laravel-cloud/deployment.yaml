@@ -1,0 +1,11 @@
+name: collageme
+
+build:
+  commands:
+    - echo "No build step required for plain PHP."
+
+deploy:
+  web:
+    entrypoint: public/index.php
+    type: php
+
